@@ -12,9 +12,9 @@ facebook.com, 524429266532956, RESELLER, c3e20eee3f780d68
 google.com, pub-9648176285196739, DIRECT, f08c47fec0942fa0
 
 
-applovin.com，9c9abc0094
-b94994387ccfc9ecd3bd98
-DIRECT
+applovin.com, 9c9abc0094b94994387ccfc9ecd3bd98, DIRECT
+
+
 
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
