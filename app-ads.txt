@@ -1157,7 +1157,7 @@ rubiconproject.com, 18364, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
 
-ironsrc.com, [yourironSourcePublisherAccountID], Direct
+ironsrc.com, [307901], Direct
 
 adbility-media.com, 187, RESELLER
 advertising.com, 8693, RESELLER
