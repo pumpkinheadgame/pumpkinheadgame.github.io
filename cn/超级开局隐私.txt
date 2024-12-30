@@ -99,8 +99,8 @@
 
 五、	第三方产品或服务如何获得您的个人信息
 为了向您提供更丰富和完整的功能，我们会使用下述第三方软件开发工具包（简称“SDK”）为您提供服务。SDK的具体信息收集和使用情况请以SDK运营方的隐私政策或相关声明为准。点击《第三方SDK类服务商目录》可查看我们接入的授权合作伙伴的SDK详情。
-SDK名称	                      SDK使用目的	                                                    SDK收集的信息	                           隐私政策链接
-TapSDK     数据分析、防沉迷、内嵌动态、游戏好友、正版验证            Android ID         https://developer.taptap.cn/docs/sdk/start/agreement/
+SDK名称	                        SDK使用目的	                                                    SDK收集的信息	                           隐私政策链接
+TapSDK     数据分析、防沉迷、内嵌动态、游戏好友、正版验证 Android ID         https://developer.taptap.cn/docs/sdk/start/agreement/
 
 
 六、	我们如何保护您的个人信息
